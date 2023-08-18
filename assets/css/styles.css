@@ -235,6 +235,7 @@ textarea {
     max-width: 590px;
     color: #767e7e;
     font-size: 1.8rem;
+    line-height: 1.69;
 }
 
 .feature-list {
